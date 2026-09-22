@@ -1,0 +1,23 @@
+﻿# Core ML & Scientific Computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+shap>=0.44.0
+joblib>=1.3.0
+
+# API & Serving
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.5.0
+httpx>=0.27.0
+
+# Web Application & UI
+streamlit>=1.32.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Testing & Quality
+pytest>=8.0.0
+pytest-cov>=4.1.0
